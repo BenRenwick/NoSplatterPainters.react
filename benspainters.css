@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("./blueroller.jpg");
+    background-image: url("./paintbrush.jpg");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
@@ -36,9 +36,9 @@ body {
   .contact-info {
     
     border-radius: 30px;
-    background-color: rgba(255, 255, 255, 0.326);
+    background-color:;
     margin: 2rem;
-    width: fit-content;
+    width: ;
     padding: 1rem;
     font-size: 2rem;
     text-align: center;
@@ -52,7 +52,7 @@ body {
     color: black;
     text-align: center;
     font-size: 1rem;
-    background-color: white;
+    background-color: ;
   }
   
   @media (max-width: 1000px) {
