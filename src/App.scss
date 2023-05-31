@@ -11,5 +11,17 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    h1 {
+      font-size: 4rem;
+    }
+
+    .contact-info {
+      font-size: 2rem;
+      a {
+        color: unset;
+        text-decoration: none;
+      }
+    }
   }
 }
